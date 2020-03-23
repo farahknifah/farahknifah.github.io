@@ -16,5 +16,9 @@ em{
 	color: darkorchid
 }
 img{
-	border-radius: 20%
+	border-radius: 100px;
+  padding: 20px;
+  width: 150px;
+  height: 150px;
 }
+
